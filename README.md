@@ -33,7 +33,7 @@ This project analyzes traffic and engagement data before and after the split, co
 ## Files
 | File | Description |
 |------|-------------|
-| `Project-Analyzing-Website-Performance-Grammys.xlsx` | Full analysis workbook with data, calculations, and findings |
+|[Project-Analyzing-Website-Performance-Grammys.xlsx](https://github.com/user-attachments/files/26242598/Project-Analyzing-Website-Performance-Grammys.xlsx)  | Full analysis workbook with data, calculations, and findings |
 
 ## Context
 Completed as part of the **Global Career Accelerator** program. The goal was to practice real-world business analytics — taking raw web traffic data, applying structured analysis, and delivering a recommendation a non-technical stakeholder could act on.
